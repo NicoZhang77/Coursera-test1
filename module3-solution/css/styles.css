@@ -1,0 +1,29 @@
+
+
+.nav-link {
+  text-align: center;
+  border-style: solid;
+  
+}
+
+#nav2 {
+  text-align: center;
+  border-bottom: 0;
+  border-top: 0;
+}
+
+.container-fluid{
+	
+	padding: 20px;
+}
+
+.navbar-brand{
+	
+	font-size: 25PX;	
+}
+.col {
+	height: 1000px;
+	background-color: pink;
+	text-align: center;
+	font-size: bold
+}
